@@ -23,6 +23,19 @@ Ik heb gebruik gemaakt van felle kleuren om de geluiden over te brengen. Ik vind
 ## Iframe aanpassingen
 Ik heb meerdere malen mijn video getransformd. Met bepaalde alarmen maakte ik hem kleiner en bij sommigen groter, dit gaat dan snel met een kracht erachter, iets wat ook weer de verbeelding van het geluid versterkt.
 
+## Proces
+Hier is mijn aller eerste versie. Ik had bijna nog niks veranderd behalve dat ik de tekst gestyled had.
+![](procesv2/v1.PNG)
+
+Na de eerste feedback gesprekken ben ik bij product gaan aanpassen en verbeteren. Hier ben ik meer gaan spelen met kleur en transformaties.
+![](procesv2/v2.png)
+
+Ook ben ik meer gaan spelen met het invoegen van afbeeldingen om de geluiden uit te beelden.
+![](procesv2/v22.png)
+
+Na de laaste feedbackgesprekken heb mijn product meer verbeterd en verder afgemaakt in de stijl waar ik in bezig was. De grootste verandering is dat ik bij de tweede scene de ruimte als bewegende achtergrond heb toegevoegd.
+![](procesv2/ruimte.png)
+
 ## Bronnen:
 Ruimte gif: https://www.youtube.com/watch?v=YkakYsTUtnY (heb ik zelf een gif van gemaakt)
 
