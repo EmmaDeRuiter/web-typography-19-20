@@ -17,7 +17,9 @@ iframe {
     margin-left: -20em;
     z-index: 5;
 }
-
+p {
+    z-index: 12;
+}
 #ruimte {
     opacity: 0;
 }
