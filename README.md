@@ -25,5 +25,7 @@ Ik heb meerdere malen mijn video getransformd. Met bepaalde alarmen maakte ik he
 
 ## Bronnen:
 Ruimte gif: https://www.youtube.com/watch?v=YkakYsTUtnY (heb ik zelf een gif van gemaakt)
+
 Alarm gif: https://www.gifimage.net/wp-content/uploads/2018/10/alarm-gif-transparent-8.gif
+
 Alarm horn: https://www.e2s.com/system/1/product_assets/assets/000/000/725/725/7005aee47/original/1-22-100_GNExL1.jpg
