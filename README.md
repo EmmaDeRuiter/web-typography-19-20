@@ -15,13 +15,16 @@ Ik heb mij dus specifiek gevestigd op wat Darice als individueel wilt zien. Zij 
 Natuurlijk heb ik ook wat grappig en overdreven effecten toegevoegd, zoals de afbeelddingen van alarmen. Dit maakt het wat komischer, of de intense veranderingen van de video en de achtergrond kleur. Het zijn wel wat grotere effecten, maar ze helpen in het overbrengen van de boodschap en de geluiden en hebben dus wel degelijk een belangrijke functie. Ook is het toevoegen van de ruimte achtergrond best wel raar, maar ik vond dat dit de sfeer van de muziek heel goed overbrengt in de tweede scene. De muziek is n het belangrijkste type geluid van de scene en ik wilde ook dat dat erdoorheen duidelijk was.
 
 ## Lettertype?
-Ik heb gekozen voor het Brenner lettertype, omdat je hier veel meer keuze hebt voor welke sfeer je met elk woord wilt meegeven. Ook houd Darice dus niet van te plat en eentonig ontwerp, en als je het standaard lettertype zou gebruiken is er weinig variatie waar je gebruik van kan maken. Met Brenner heb je veel meer ruimte voor creativiteit. Ik heb voor hoge geluiden vooral geprobeerd dunnen lettertypes te gebruiken, voor mij was dat een associatie met geluidsgolven. Geluidsgolven van een hoge toon zijn dun en hoog. 
+Ik heb gekozen voor het Brenner lettertype, omdat je hier veel meer keuze hebt voor welke sfeer je met elk woord wilt meegeven. Ook houd Darice dus niet van te plat en eentonig ontwerp, en als je het standaard lettertype zou gebruiken is er weinig variatie waar je gebruik van kan maken. Met Brenner heb je veel meer ruimte voor creativiteit. Ik heb voor hoge geluiden vooral geprobeerd dunnen lettertypes te gebruiken, voor mij was dat een associatie met geluidsgolven. Geluidsgolven van een hoge toon zijn dun en hoog. Voor de robotstem heb ik een monospace lettertype gekozen aangezien de meeste mensen dat wel associeren met een robot. De mensen heb ik een dunnere en kleinere variant gegeven, want dat klopt in verhouding als je kijkt naar de personages. 
 
 ## Kleurgebruik
-Ik heb gebruik gemaakt van felle kleuren om de geluiden over te brengen. Ik vind dat geel en rood goed aangeven dat er een alarm afspeelt, de kleuren zijn hard en fel dus de geluiden die erbij horen zullen ook hard en fel zijn.
+Ik heb gebruik gemaakt van felle kleuren om de geluiden over te brengen. Ik vind dat geel en rood goed aangeven dat er een alarm afspeelt, de kleuren zijn hard en fel dus de geluiden die erbij horen zullen ook hard en fel zijn. De video tekst heeft 3 kleuren voor de 3 stemmen. 
 
 ## Iframe aanpassingen
 Ik heb meerdere malen mijn video getransformd. Met bepaalde alarmen maakte ik hem kleiner en bij sommigen groter, dit gaat dan snel met een kracht erachter, iets wat ook weer de verbeelding van het geluid versterkt.
+
+## Opbouw
+Ik heb de indeling van de pagina gecentreerd gehouden. De tekst is wel links uitgelijnd, omdat dat voor mij een logische leesrichting is in plaats van in het midden. De effecten verschijnen ook gecentreerd uitgelijnd, dit heb ik gedaan zodat je ogen niet overal op vreemde plaatsen zich moeten gaan focussen. 
 
 ## Proces
 ### V1
